@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//Pushed via Eclipse from my Mac
 public class HelloWithScanner {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
